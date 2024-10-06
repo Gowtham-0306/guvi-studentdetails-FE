@@ -1,0 +1,16 @@
+.navbarcontainer{
+
+
+
+    background-color: greenyellow;
+    color: black;
+    display: flex;
+    align-items: center;
+justify-content: space-evenly;
+
+padding: 15px 7%;
+text-align: center;
+}
+.rounded-image {
+    border-radius: 10px;
+  }

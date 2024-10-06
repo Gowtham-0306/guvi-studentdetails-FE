@@ -1,0 +1,52 @@
+/* banner.module.css */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+
+
+.Displayboard{
+
+    padding-top: 64px;
+    background-color: black;
+    height: 100vh;
+  
+    background-size: cover;
+    }
+    
+  
+    
+    body{
+    
+        background-color: blue;
+        font-family: 'Roboto', sans-serif;
+
+    
+    }
+
+.Nameboard{
+
+font-size: medium;
+  background-color: black;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Example box shadow */
+    margin-left: 50px;
+    color:  red;
+    
+}
+.customFontStyle {
+    
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 1.2rem;
+    font-style: bold; /* Apply italic style */
+    color: gray;
+  }
+   .rounded-image {
+    border-radius: 10px;
+  }
+
+  .seestudentdatas{
+
+
+    background-color: brown;
+  }
